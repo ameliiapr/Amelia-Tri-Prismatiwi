@@ -1,0 +1,9 @@
+[options]
+addons_path = /usr/local/lib/python3.8/dist-packages/odoo-14.0.post20230801-py3.8.egg/odoo/addons,/opt/odoo/custom_addons
+admin_passwd = superadmin
+db_host = localhost
+db_port = 5432
+db_user = odoo
+db_password = odoo
+
+
